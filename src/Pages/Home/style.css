@@ -1,0 +1,23 @@
+.buys{
+    width: 330px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 22px;
+    padding: 25px 33px 7px 16px;
+    position: relative;
+}
+.buysName{
+    font-size: 1.3em;
+
+}
+.price{
+    opacity: .8;
+    font-size: 1.4em;
+    font-weight: 500;
+}
+.closeBtn{
+    position: absolute !important;
+    top: 0;
+    right: 0;
+    
+}
